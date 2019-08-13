@@ -85,10 +85,10 @@ def find_tail():
 
 def about():
     print("关于：")
-    print("1.该软件不定时更新的地址在：")
+    print("1.该软件不定时更新的地址在：https://github.com/callmebg/idioms_follow")
     print("2.该软件词库一共30957个词，可在cyyyy.csv自行修改")
     print("3.b站视频地址：")
-    print("4.csdn博客地址：")
+    print("4.csdn博客地址：https://blog.csdn.net/qq_34438779/article/details/99469079")
 if __name__ == "__main__":
     init()
     while(True):
