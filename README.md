@@ -1,5 +1,6 @@
 # idioms_follow
 成语接龙的相关代码
+
 1 成语接龙.py为运行的主程序
   cyyyy.csv为其数据库
   
