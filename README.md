@@ -8,3 +8,6 @@
   1.py 2.py 为对原始数据的一些处理，用打表的方式存储答案
   
 3 成语接龙.rar为已打包的程序，解压后双击exe文件即可使用
+
+
+![image](https://img-blog.csdnimg.cn/20190816092333907.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM0NDM4Nzc5,size_16,color_FFFFFF,t_70)
