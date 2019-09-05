@@ -1,7 +1,10 @@
 # idioms_follow
 成语接龙的相关代码
+
 现开发了成语接龙的api。分割线下有打包成exe的介绍
+api地址 http://182.61.138.48/api_explain http://182.61.138.48/api_IF
 api使用方法 https://zhuanlan.zhihu.com/p/78014601 或 https://blog.csdn.net/qq_34438779/article/details/99469079
+
 main.py 是api的实现
 ****
 1 成语接龙.py为运行的主程序
