@@ -1,6 +1,9 @@
 # idioms_follow
 成语接龙的相关代码
-
+现开发了成语接龙的api。分割线下有打包成exe的介绍
+api使用方法 https://zhuanlan.zhihu.com/p/78014601 或 https://blog.csdn.net/qq_34438779/article/details/99469079
+main.py 是api的实现
+****
 1 成语接龙.py为运行的主程序
   cyyyy.csv为其数据库
   
