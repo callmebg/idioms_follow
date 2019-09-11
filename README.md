@@ -17,3 +17,11 @@ main.py 是api的实现
 
 
 ![image](https://img-blog.csdnimg.cn/20190816092333907.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM0NDM4Nzc5,size_16,color_FFFFFF,t_70)
+
+关于qq成语接龙红包的说明：
+
+红包词库的部分成语读音存疑，如“否终斯泰”可接“不置可否”，但前者念“pi”，后者念“fou”。（本程序，并不准备修改）
+
+还有一些可以破无解的成语，在下面知乎文章的评论区可以找到
+
+https://zhuanlan.zhihu.com/p/78014601
